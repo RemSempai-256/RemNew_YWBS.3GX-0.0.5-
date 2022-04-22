@@ -4,6 +4,7 @@
 
 ①PIN Lockのつけました。(パスワード間違ったらCTRPFがおちます。)
 ![bandicam 2022-04-22 20-55-04-585](https://user-images.githubusercontent.com/103506390/164709683-c8ebcd01-032f-46ca-a9f3-77f11de0b11b.jpg)
+
 ②時刻表示を入れました。左上に表示されます。
 ![bandicam 2022-04-22 20-58-06-140](https://user-images.githubusercontent.com/103506390/164710034-6dbfbd47-482b-4cfa-9539-394f49554b23.jpg)
 ③対応してない3GXではしっかり警告するようにしました。
