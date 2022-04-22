@@ -14,6 +14,17 @@
 ④Toolsの所を日本語化しました。
 ![bandicam 2022-04-22 21-02-16-749](https://user-images.githubusercontent.com/103506390/164710571-c022d23a-d6da-4bf0-9a14-0f6ea1bdec35.jpg)
 
+⑤利用契約をつけました。↓
+![bandicam 2022-04-22 21-12-04-145](https://user-images.githubusercontent.com/103506390/164712145-2c07ef17-d5a9-46f3-8862-3347bb8fc6fd.jpg)
+
+![bandicam 2022-04-22 21-12-11-626](https://user-images.githubusercontent.com/103506390/164712172-8d6fa236-bb7c-43a2-b507-c72f64a24c1a.jpg)
+
+![bandicam 2022-04-22 21-12-16-926](https://user-images.githubusercontent.com/103506390/164712204-bbde5653-504d-438f-bf0d-8f83e2b63f26.jpg)
+
+![bandicam 2022-04-22 21-12-22-793](https://user-images.githubusercontent.com/103506390/164712234-bb7b29b8-7dd2-4798-91f8-606f44b179e6.jpg)
+
+![bandicam 2022-04-22 21-12-27-836](https://user-images.githubusercontent.com/103506390/164712251-7c1e02aa-adce-4ac2-aa84-eccc07273244.jpg)
+
 次のVersionは0.0.8です。
 協力してくれた人
 Tekito_256
