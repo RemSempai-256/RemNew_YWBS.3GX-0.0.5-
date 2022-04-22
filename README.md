@@ -11,7 +11,7 @@
 ③対応してない3GXではしっかり警告するようにしました。
 ![bandicam 2022-04-22 21-00-12-832](https://user-images.githubusercontent.com/103506390/164710263-1b26150d-b2e4-4f48-8386-daccd5f6806e.jpg)
 
-④Toolsの所を日本語化しました。
+④Toolsの所を日本語化しました。→
 ![bandicam 2022-04-22 21-02-16-749](https://user-images.githubusercontent.com/103506390/164710571-c022d23a-d6da-4bf0-9a14-0f6ea1bdec35.jpg)
 
 次のVersionは0.0.8です。
