@@ -26,7 +26,7 @@
 
 ![bandicam 2022-04-22 21-12-27-836](https://user-images.githubusercontent.com/103506390/164712251-7c1e02aa-adce-4ac2-aa84-eccc07273244.jpg)
 
-次のVersionは0.0.8です。
+今のVersionは0.0.です。
 協力してくれた人
 Tekito_256
 さいきん
